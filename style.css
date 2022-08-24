@@ -50,12 +50,3 @@ h1{
     display: block;
     margin: 0;
 }
-
-.tile-black{
-    height: 29px;
-    width: 29px;
-    border: 1px solid black;
-    background-color: black;
-    display: block;
-    margin: 0;
-}
