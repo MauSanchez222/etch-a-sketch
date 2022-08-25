@@ -26,7 +26,7 @@ h1{
 #buttons{
     display: flex;
     height: 5%;
-    width: 50%;
+    width: 70%;
     justify-content: space-around;
     align-items: center;
     margin: 1vw 0 0;
@@ -47,6 +47,14 @@ h1{
     width: 29px;
     border: 1px solid black;
     background-color: white;
-    display: block;
     margin: 0;
+}
+
+#resize, #resize-number{
+    width: 3vw;
+}
+
+#resize{
+    margin-left: -3vw;
+    text-align: center;
 }
